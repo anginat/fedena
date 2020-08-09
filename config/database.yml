@@ -17,9 +17,9 @@ test: &test
 production:
       host: localhost
       adapter: mysql
-      database: fedena_ultimate
+      database: epdMiarbP5
       port: 3306
-      username: root
-      password: foradian
+      username: epdMiarbP5
+      password: pm7G0aLUP8
 cucumber:
   <<: *test
